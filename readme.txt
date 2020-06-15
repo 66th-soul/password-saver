@@ -1,0 +1,1 @@
+Launch "_start.bat" and do all indtructions. If youusing linux/mac you can open "start.py" file with IDLE. Required python 3.0+.
